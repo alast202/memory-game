@@ -2,6 +2,6 @@
 
 I Used the same id for both cards to determine if they are matching. Cards randomize each time page is refreshed.
 
-[screen-capture.webm](https://user-images.githubusercontent.com/81660066/214565072-eeface5b-e84b-47a0-bdcb-0033793269b6.webm)
 
+https://user-images.githubusercontent.com/81660066/214655720-193a05a4-fc12-4164-90da-9d39b256b8fc.mp4
 
